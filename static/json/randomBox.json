@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "box",
+      "value" : "mystery"
+    }, {
+      "trait_type" : "color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most adorable and mystery box.",
+    "image" : "ipfs://Qmds4MkU8g3T4hpvZZv2R6vnj8vniEGFpJGFnGKKoEMC8W",
+    "name" : "Mystery Box"
+}
