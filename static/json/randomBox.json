@@ -1,21 +1,12 @@
 {
     "attributes" : [ {
       "trait_type" : "box",
-      "value" : "MysteryBox_changed"
+      "value" : "mystery2"
     }, {
       "trait_type" : "color",
-      "value" : "random"
-    }, {
-      "trait_type": "Level", 
-      "value": 5
-    }, {
-      "display_type": "percentage", 
-      "trait_type": "Stamina Increase", 
-      "value": 10
-    }, ],
+      "value" : "random2"
+    } ],
     "description" : "The world's most adorable and mystery box.",
     "image" : "https://raw.githubusercontent.com/securekim/NFTOpenSeaTest/main/static/images/randomBox.png",
-    "name" : "MysteryBox_changed",
-	"seller_fee_basis_points": 100,
-	"fee_recipient": "0x748008EE465D43f744648ccCD80821268DE5C3f1"
+    "name" : "MysteryBox2"
 }
