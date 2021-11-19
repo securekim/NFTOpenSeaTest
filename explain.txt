@@ -1,0 +1,19 @@
+강의자 주소 
+0xd2aeb9be94cccd5c525eedd962156780b72419db
+
+[KIP17 코드를 블록체인에 올림]
+CoinResearchNFT 주소  - NFT 이름과 심볼(CRN)
+해시 : 0x79c...34287 
+From 강의자 주소 -> To -----
+
+CoinResearchKIP17 at 0xf9E...D4284 (블록체인 상 주소(?))
+
+[NFT를 실제로 찍어냄 - 민팅]
+mintWithTokenURI
+Method ID : 0x50bb4e7f
+해시 : 0xd87...cdb91
+From 강의자 주소 -> To CoinResearchKIP17주소
+
+[NFT Transfer 확인]
+0xd87...cdb91
+From 0x00000 -> To 강의자 주소

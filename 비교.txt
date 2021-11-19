@@ -1,0 +1,18 @@
+내 주소 
+0x34ec28cb6eEA90c4A1Eea774A004EB311221F5B1
+
+[KIP17 코드를 블록체인에 올림]
+CoinKIPNFT(CKN)
+Hash : 0x7338175524930b8e36ee54a57297fd80e59348ce9c2db5dbfb504fc5d10e0c02
+From : 내주소 To : ---
+
+
+[NFT를 실제로 찍어냄 - 민팅]
+mintWithTokenURI
+method ID : 
+해시 : 0x17b240917c667c1cd29be07ecd42eda747db8bf240d41f6516af1f76c242ebbb
+From 내주소 -> 0x62c3...d5a725 (CoinKIP17 주소)
+
+[NFT Transfer 확인]
+0x17b2....42ebbb
+From 0x0000 -> To 내 주소

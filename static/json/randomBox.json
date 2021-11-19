@@ -1,12 +1,12 @@
 {
     "attributes" : [ {
       "trait_type" : "box",
-      "value" : "mystery2"
+      "value" : "mystery3"
     }, {
       "trait_type" : "color",
-      "value" : "random2"
+      "value" : "random3"
     } ],
     "description" : "The world's most adorable and mystery box.",
     "image" : "https://raw.githubusercontent.com/securekim/NFTOpenSeaTest/main/static/images/randomBox.png",
-    "name" : "MysteryBox2"
+    "name" : "MysteryBox3"
 }
